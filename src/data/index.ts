@@ -6,6 +6,7 @@ export const phrases: any[] = [
   "Elegant man",
   "The eyes",
   "They see",
+  "i am here",
   "Astronomer",
   "Moon starer",
   0,
@@ -30,4 +31,6 @@ export const phrases: any[] = [
   "Twelve plus one",
   "Twelve plus one",
   "Twelve plus one",
+  123456789,
+  987654321
 ];

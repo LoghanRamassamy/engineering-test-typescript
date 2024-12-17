@@ -4,10 +4,10 @@
 
 1. **Nettoyage et Transformation :**
    - Nettoyez chaque phrase en supprimant les espaces et en mettant tout en minuscules.
-   - Supprimez les doublons et filtrez les valeurs `undefined` du tableau.
+   - Supprimez les doublons, filtrez les valeurs `undefined` et retirer les numbers du tableau.
 
 2. **Anagrammes :**
-   - Pour chaque paire de phrases, déterminez si elles sont des anagrammes l'une de l'autre.
+   - Pour chaque paire de phrases, déterminez si elles sont des anagrammes l'une de l'autre. À ne pas confondre avec un palindrome (ex : kayak).
 
 3. **Récupération des Chaînes de Longueur Paire :**
    - Identifiez et extrayez les phrases transformées qui ont une longueur paire.
