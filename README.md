@@ -7,7 +7,7 @@
    - Supprimez les doublons, filtrez les valeurs `undefined` et retirer les numbers du tableau.
 
 2. **Anagrammes :**
-   - Pour chaque paire de phrases, déterminez si elles sont des anagrammes l'une de l'autre. À ne pas confondre avec un palindrome (ex : kayak).
+   - Pour chaque paire de phrases, déterminez si elles sont des anagrammes l'une de l'autre (ex: nectar - carnet - encart). À ne pas confondre avec un palindrome (ex : kayak).
 
 3. **Récupération des Chaînes de Longueur Paire :**
    - Identifiez et extrayez les phrases transformées qui ont une longueur paire.
